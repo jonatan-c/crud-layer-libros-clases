@@ -1,0 +1,1 @@
+{"version":3,"file":"librosModel.js","sourceRoot":"","sources":["../../src/libros/librosModel.ts"],"names":[],"mappings":";;AAAA,uCAAyC;AAEzC,MAAM,WAAW,GAAG,IAAI,iBAAM,CAAC;IAC7B,MAAM,EAAE,MAAM;IACd,KAAK,EAAE,MAAM;IACb,SAAS,EAAE,MAAM;IACjB,KAAK,EAAE,MAAM;IACb,MAAM,EAAE,MAAM;IACd,SAAS,EAAE,MAAM;CAClB,CAAC,CAAC;AAEH,wDAAwD;AACxD,kBAAe,IAAA,gBAAK,EAAC,OAAO,EAAE,WAAW,CAAC,CAAC"}
